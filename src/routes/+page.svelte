@@ -30,8 +30,8 @@
 	}[selectedNetwork];
 </script>
 
-<div class="container h-full mx-auto flex justify-center items-center">
-	<div class="space-y-10 text-center flex flex-col items-center">
+<div class="min-h-screen w-full flex justify-center items-center">
+	<div class="space-y-10 text-center flex flex-col items-center w-full max-w-4xl px-4">
 		<h2 class="h2">Select platform and enter your ID</h2>
 		
 		<!-- Social Network Selection Grid -->
